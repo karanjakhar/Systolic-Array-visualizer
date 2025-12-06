@@ -1,0 +1,5 @@
+{
+  "name": "TPU Systolic Array Visualizer",
+  "description": "An interactive, step-by-step visualization of how a Systolic Array (the core of Tensor Processing Units) performs high-speed matrix multiplication using parallel processing and rhythmic data flow.",
+  "requestFramePermissions": []
+}
